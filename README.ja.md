@@ -32,7 +32,7 @@ git clone https://github.com/ytyaru/Shell.import.prefix.module.name.202001200000
 # 使い方
 
 ```sh
-cd /src
+cd ./src
 ./main.sh
 ```
 
